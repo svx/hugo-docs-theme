@@ -1,0 +1,39 @@
+/* background behind the logo*/
+#header {
+    background: #F6F5F1;
+    border-color: #A0A0A0;
+}
+
+/* Background color of the menu */
+#sidebar {
+  background-color: #F6F5F1;
+}
+
+/* Background color of the menu, when clicked */
+#sidebar ul.topics > li.parent, #sidebar ul.topics > li.active {
+  background-color: #F6F5F1;
+}
+
+#sidebar ul li.active > a {
+  color: #333 !important;
+}
+
+#sidebar a {
+    color: #00564c;
+}
+
+#sidebar a:hover {
+    color: #2a6496;
+}
+
+/* Color of all links, including arrows to get to previous and next pages */
+a {
+    color: #00564c;
+}
+a:hover {
+   color: #2a6496;
+}
+
+#footer {
+    color: #333;
+}

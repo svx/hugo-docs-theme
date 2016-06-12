@@ -1,0 +1,11 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "hugo-theme-learn"
+MetaDataFormat = "yaml"
+canonifyurls = true
+
+[params]
+  editURL = "https://github.com/svx/"
+  description = "Documentation for Hugo Learn Theme"
+  author = "svx"
